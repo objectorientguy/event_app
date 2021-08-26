@@ -1,0 +1,2 @@
+ String accountExistsError = "";
+ String invalidPasswordError = "";
